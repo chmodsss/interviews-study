@@ -5,7 +5,7 @@ German Aerospace Center / University of Stuttgart
 |Name|Email|
 |---|---|
 |Sivasurya Santhanam|sivasurya.santhanam@dlr.de, sivasurya.santhanam@iste.uni-stuttgart.de|
-|Justus Bogner|justus.bogner@reutlingen-university.de, justus.bogner@iste.uni-stuttgart.de|
+|Justus Bogner|justus.bogner@iste.uni-stuttgart.de|
 |Stefan Wagner|stefan.wagner@iste.uni-stuttgart.de|
 
 This document describes the general guidelines and ethical considerations of this interview study.
