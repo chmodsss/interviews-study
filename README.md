@@ -1,24 +1,24 @@
-# Assuring the Evolvability of Microservices: Insights into Industry Practices and Challenges
+# Understanding the need of voice-assistants in Software development practices
 
-This repository contains all publicly available artifacts related to a qualitative interview study about the evolvability assurance of Microservices in the German industry. We conducted 17 individual interviews with software professionals from 10 companies and talked with them about 14 systems with Microservices characteristics. The study took place in October and November, 2018.
+This repository is created to log all the information related to a qualitative study based on interviews with several software developers to know how a voice-bot assistant serve developers to improve their productivity in Software development environment. The study is planned to be conducted at the end of 2021.
 
 ## Research Objective
 
 ```
-    Analyze the applied evolvability assurance
-    For the purpose of knowledge generation
-    With respect to common practices and challenges
-    From the viewpoint of software professionals
-    In the context of Microservices in industry
+    Investigate the feasibility of voice-bots in software development
+    To counteract the effects of cognitive load with respect to context-switching
+    From the perspective of software developers
+    To improve their productivity
 ```
 
 ## Research Questions
 
-**RQ1:** How do software professionals structure the general evolvability assurance activities for Microservices and for what reasons?
+**RQ1:** How does frequent context switching leads to cognitive load for software developers?
 
-**RQ2:** What tools, metrics, and patterns do software professionals use for assuring the evolvability of Microservices and with what rationales?
+**RQ2:** Do Software developers believe voice-bots will reduce the cognitive load for developers by improving productivity in their day-to-day tasks?
 
-**RQ3:** How do software professionals perceive the evolution qualities of Microservices as well as their assurance process and what parts are seen as challenging?
+**RQ3:** How intelligent and trustable should the Voice-bots be developed?
+
 
 ## Interview Artifacts and Results
 
@@ -29,4 +29,4 @@ This repository contains all publicly available artifacts related to a qualitati
 * [Case Characterization Matrix](case-characterization-matrix.xlsx)
 * [Individual Case Descriptions](case-descriptions/README.md)
 
-**CAVEAT:** Since this interview study comprises more topics than touched in this publication, some interview artifacts have been shortened to only include the relevant information.
+**CAVEAT:** -
