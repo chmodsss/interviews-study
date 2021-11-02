@@ -1,28 +1,31 @@
 # Interview Preamble
 
-University of Applied Sciences Reutlingen / University of Stuttgart
+German Aerospace Center / University of Stuttgart
 
 |Name|Email|
 |---|---|
+|Sivasurya Santhanam|sivasurya.santhanam@dlr.de, sivasurya.santhanam@iste.uni-stuttgart.de|
 |Justus Bogner|justus.bogner@reutlingen-university.de, justus.bogner@iste.uni-stuttgart.de|
-|Jonas Fritzsch|jonas.fritzsch@iste.uni-stuttgart.de|
 |Stefan Wagner|stefan.wagner@iste.uni-stuttgart.de|
-|Alfred Zimmermann|alfred.zimmermann@reutlingen-university.de|
 
 This document describes the general guidelines and ethical considerations of this interview study.
 
 ## Purpose of this Study
 
-We are researching the migration to Microservices as well as the maintainability assurance of Service- and Microservice-Based Systems, i.e. what processes, metrics, tools, or techniques industry uses to identify and remediate issues that may hinder the maintenance and evolution of systems that are based on service orientation.
+We want to understand, how the use of voice-bots in software development can help the developers in their day-to-day tasks improve productivity by reducing the cognitive load during context-switching.
 
-This study aims to gather knowledge about industry practices and problems in this area
+This interview-study is focused on the following points of view
+1. Opinions on whether such a voice-bot is needed in the development enviroment
+2. How and where should the voice-bot be implemented
+3. Trustability of the bots by the community
 
-1. to support the bidirectionally beneficial exchange of knowledge between industry and academia and
-2. to point academia towards common industry pain points or suboptimal practices
+This study helps to throw lights on
+1. the unexplored ara of conversational AI in software development
+2. how effective can the bots be designed for productive usage from user's perspective
 
-with the final goal that researchers may better support industry to sustainably develop and evolve long-living service-oriented software.
+The study is aimed with the final goal that developers will be assisted by bots, which takes care of small and monotonous tasks.
 
-The goal of this study is _**NOT**_ to evaluate or rate individual employees or companies. Likewise, we have _**NO**_ intention to destroy a company’s competitive advantage by disclosing vital information about technical excellence or weaknesses in their development organization.
+The goal of this study is _**NOT**_ to push the interviewees towards the use of voice-bots. But to extract honest opinions from the participants about the feasability and anxiety concerning such bots.
 
 ## Confidentiality and Anonymity
 
