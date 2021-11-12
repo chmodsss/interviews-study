@@ -25,8 +25,5 @@ This repository is created to log all the information related to a qualitative s
 * [Interview Preamble](interview-preamble.md)
 * [Interview Guide](interview-guide.md)
 * [Interview Artifacts](interview-artifacts.pptx)
-* [Coding System and Frequencies](coding-label-frequencies.xlsx)
-* [Case Characterization Matrix](case-characterization-matrix.xlsx)
-* [Individual Case Descriptions](case-descriptions/README.md)
 
 **CAVEAT:** -
