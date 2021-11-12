@@ -1,71 +1,40 @@
 # Interview Guide
 
-The following sections contain the basic agenda for our semi-structured interviews. We loosely followed these questions based on the participant's responses.
+The following sections contain the basic agenda for our semi-structured interviews. We loosely follow these questions based on the participant's responses.
 
 ## Demographic and Professional Background
 
 - Role
+- Company
 - Years of professional experience
-- Company domain
-- \# of employees
+- Programming languages/ Tech stack
 
-## System Background and Technological Details
+## Requirements
 
-- General domain/purpose of the system
-- Total number of developers
-- Team size
-- Number of services
-- Granularity of services (e.g. # of operations, LOC)
-- Communication protocols (e.g. REST, SOAP/WSDL, messaging)
-- Programming languages
-- Middleware, frameworks, technology, containers, orchestration, etc.
+Participants should be software developers with a minimum experience of 2 years.
 
-[...]
+## Interview scenario
 
-## Evolvability Satisfaction and Symptoms of Technical Debt
+Interviews will be held online via video calls and are recorded for transcription. The participants will be first shown a presentation about a voice-bot used in Software development and asked a series of questions about the thoughts of such bots in multi-tasking. Based upon the exposure to bots, appropriate information will be provided to the participants.
 
-*(show definitions of maintainability and evolvability)*
+## Research question
 
-- Are you satisfied with the overall degree of evolvability in your system (-2 to +2) and why?
-- What are symptoms of technical debt in your system? *(show exemplary list of symptoms for contextual help)*
+1. Does multitasking puts cognitive load on developers, affecting their productivity
+2. Do software developers believe voice bots reduce such cognitive load
 
-## Evolvability Assurance
+## Interview questions
 
-*(show definition of evolvability assurance and assurance maturity levels)*
+#### Opinions and expectations
+1. What do you think about an AI assistant that assist you in workplace to improve productivity?
+2. On what type of tasks would you use this bot for?
+3. What would you expect from the bot, functional scope and level of autonomy?
+4. Would you expect the bot to understand a command entirely in natural language or are you willing to learn keyword targeted commands?
 
-### Overall Process and Maturity Level
+#### Implementation
+5. How should the bot be deployed? IDE plugin, Background process, Standalone application, Webservice
+6. Would you rather chat(text) with the assistant to execute your actions or do you like to speak(voice) to this assistant?
+7. Why would you prefer the choice? What are the hurdles you might imagine for voice assisted bots?
 
-- What is your general process for evolvability assurance like, e.g. what activities do you perform and how are they triggered?
-- On which maturity level would you place your team and why?
-
-### Guidelines, Principles, Standardizations
-
-- What guidelines, principles, or standards do you use?
-- Central governance and enforcement?
-
-### Tools
-
-- Which tools do you use? *(show exemplary list of tools for contextual help)*
-- DevOps pipeline integration?
-
-### Metrics
-
-- Which metrics do you use? *(show list of metrics for contextual help)*
-- Metric thresholds? Quality gates?
-- Service-oriented metrics?
-
-### Patterns
-
-- Which service-oriented patterns do you use to improve the evolvability of your system?
-- Are they effective?
-
-### Influence of Service Orientation / Microservices
-
-- How do service orientation or Microservices influence your assurance activities?
-- What parts are easier? What parts are more difficult?
-
-## Reflection of Applied Assurance
-
-- Do you think your current evolvability assurance is effective, i.e. reliably improves the software quality of your system (-2 to +2)? In what ways? What parts are ineffective?
-- Do you think your current evolvability assurance hinders productivity, e.g. by significantly delaying feature development (-2 to +2)? In what areas?
-- Do you think your current overall efforts for evolvability assurance should change (-2 to +2)? What areas should change and why?
+#### Trustability
+8. Would you trust this assistant. Why?. What are the measures that needs to be taken to gain the trust in the community?
+9. Would you be comfortable to share your data to train the model given that the data will not be shared with anyone?. This would help the bot to learn from multiple users and provides better performance.
