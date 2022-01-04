@@ -1,24 +1,23 @@
-# Understanding the need of voice-assistants in Software development practices
+# Voice Assistants in Software Development: Understanding Practitioner Opinions and Requirements
 
-This repository is created to log all the information related to a qualitative study based on interviews with several software developers to know how a voice-bot assistant serve developers to improve their productivity in Software development environment. The study is planned to be conducted at the end of 2021.
+This repository is created to log all the information related to a qualitative study based on interviews with several software developers to know how a voice-bot assistant serve developers to improve their productivity in Software development environment. The study is planned to be conducted at the start of 2022.
 
-## Research Objective
+## Research Objective (GQM model) TBD
 
 ```
-    Investigate the feasibility of voice-bots in software development
-    To counteract the effects of cognitive load with respect to context-switching
-    From the perspective of software developers
-    To improve their productivity
+	Analyse the: requirements and demands of voice bots
+	For the purpose of: quality improvements in software development
+	with respect to: cognitive load and productivity
+	from the viewpoint of: software developers
 ```
 
 ## Research Questions
 
-**RQ1:** How does frequent context switching leads to cognitive load for software developers?
+**RQ1:** Which scenarios would motivate software practitioners to use voice assistants?
 
-**RQ2:** Do Software developers believe voice-bots will reduce the cognitive load for developers by improving productivity in their day-to-day tasks?
+**RQ2:** What quality improvements do software practitioners expect from using voice assistants?
 
-**RQ3:** How intelligent and trustable should the Voice-bots be developed?
-
+**RQ3:** What prerequisites do software practitioners have for using and trusting voice assistants?
 
 ## Interview Artifacts and Results
 
