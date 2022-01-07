@@ -17,7 +17,9 @@ This repository is created to log all the information related to a qualitative s
 
 **RQ2:** What quality improvements do software practitioners expect from using voice assistants?
 
-**RQ3:** What prerequisites do software practitioners have for using and trusting voice assistants?
+**RQ2:** How should the voice-bot be implemented?[TBD]
+
+**RQ4:** What prerequisites do software practitioners have for using and trusting voice assistants?
 
 ## Interview Artifacts and Results
 
