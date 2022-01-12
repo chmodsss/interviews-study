@@ -2,7 +2,7 @@
 
 This repository is created to log all the information related to a qualitative study based on interviews with several software developers to know how a voice-bot assistant serve developers to improve their productivity in Software development environment. The study is planned to be conducted at the start of 2022.
 
-## Research Objective (GQM model) TBD
+## Research Objective (GQM model) [TBD]
 
 ```
 	Analyse the: requirements and demands of voice bots
@@ -17,7 +17,7 @@ This repository is created to log all the information related to a qualitative s
 
 **RQ2:** What quality improvements do software practitioners expect from using voice assistants?
 
-**RQ2:** How should the voice-bot be implemented?[TBD]
+**RQ3:** How should the voice-bot be implemented for it to be effective?
 
 **RQ4:** What prerequisites do software practitioners have for using and trusting voice assistants?
 
