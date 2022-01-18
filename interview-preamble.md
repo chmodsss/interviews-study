@@ -12,7 +12,7 @@ This document describes the general guidelines and ethical considerations of thi
 
 ## Purpose of this Study
 
-The purpose of the study is to obtain opinions and requirements about the usage of voice assistants in software development. How can they benefit the developers and the prerequisites for trusting such an assistant. We want to understand, how the use of voice-bots in software development affects the productivity of developers, if such a correlation exists.
+The purpose of the study is to obtain opinions and requirements about the usage of voice bots in software development. How can they benefit the developers and the prerequisites for trusting such a bot. We want to understand, how the use of voice-bots in software development affects the productivity of developers, if such a correlation exists.
 
 This interview-study is focused on the following points of view
 1. To understand the participant's prior knowledge about the voice-bots
